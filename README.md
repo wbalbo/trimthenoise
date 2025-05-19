@@ -14,7 +14,7 @@
 
 1. Clone this repo or download the source code.
 2. Load the unpacked extension in your browser’s extension settings (Chrome, Edge, or Firefox).
-3. Enjoy an ad-clean LinkedIn feed!
+3. Enjoy an ad-free LinkedIn feed!
 
 ### For Users
 
@@ -23,6 +23,10 @@ Coming soon to the Chrome Web Store and other extension marketplaces!
 ## How it Works
 
 The extension scans your LinkedIn feed for posts containing the “Promoted” label (and variations), then automatically hides them by applying CSS styles.
+
+Here's a quick video explaining how it works:
+https://github.com/user-attachments/assets/f22d943b-741c-4353-a2d5-485be662b16e
+
 
 ## Support This Project
 
