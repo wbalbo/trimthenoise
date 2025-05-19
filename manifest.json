@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_extension_name__",
+  "version": "1.0",
+  "description": "__MSG_extension_description__",
+  "default_locale": "en",
+  "content_scripts": [
+    {
+      "matches": ["*://www.linkedin.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "permissions": [],
+  "icons": {
+    "64": "icon.png"
+  }
+}
