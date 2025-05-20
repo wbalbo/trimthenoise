@@ -7,6 +7,7 @@
 - Automatically detects and hides all promoted posts in your LinkedIn feed.
 - Works in multiple languages by detecting common "Promoted" labels.
 - Lightweight and privacy-friendly — no tracking or permissions required.
+- Languages supported: English, Brazilian Portuguese, Portuguese, Spanish, French, German, Italian, Russian, Swedish, Turkish, Japanese, Korean, Simplified Chinese, and Traditional Chinese
 
 ## Installation
 
