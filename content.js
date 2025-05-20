@@ -1,7 +1,8 @@
 (function hideAllPromotedPosts() {
   const promotedWords = [
     "promoted",       // English
-    "patrocinado",    // Portuguese, Spanish
+    "promovido",    // Portuguese
+    "promocionado",  // Spanish
     "sponsorisé",     // French
     "gesponsert",     // German
     "sponsorizzato",  // Italian
