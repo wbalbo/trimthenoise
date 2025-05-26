@@ -19,7 +19,11 @@
 
 ### For Users
 
-Coming soon to the Chrome Web Store and other extension marketplaces!
+Available right now on the browser extension stores!
+
+Chrome: https://chromewebstore.google.com/detail/corte-o-barulho/obfpnopgjciigemnflfkpjhkihfgopnm?authuser=0
+
+Edge: https://microsoftedge.microsoft.com/addons/detail/trim-the-noise/pofebodcdlfpnhhbadfghlfcaegnggah
 
 ## How it Works
 
